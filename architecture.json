@@ -1,0 +1,77 @@
+{
+  "book_id": "victorian-british-satirical-prose-colonial-aftermath",
+  "title": "The Profound Discourtesy of Aftermath",
+  "tagline": "A Victorian vicar inherits a ghost from the Empire—a living, breathing reminder that the consequences of conquest are never truly left at the docks.",
+  "target_words": 62345,
+  "actual_words": 62345,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Burden of Imperial Inheritance",
+    "The Friction of Cultural Encounter",
+    "The Satire of Spiritual Complacency",
+    "The Unseen Labor of the Colonized"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Unyielding Momentum of Reverend Finch",
+      "words": 5195
+    },
+    {
+      "ch": 2,
+      "title": "A Monsoon of Consequence",
+      "words": 5195
+    },
+    {
+      "ch": 3,
+      "title": "The Second, Misplaced Heart",
+      "words": 5195
+    },
+    {
+      "ch": 4,
+      "title": "The Gardener of Invisibility",
+      "words": 5195
+    },
+    {
+      "ch": 5,
+      "title": "A Series of Quiet Refusals",
+      "words": 5195
+    },
+    {
+      "ch": 6,
+      "title": "To Converse with Perfection",
+      "words": 5195
+    },
+    {
+      "ch": 7,
+      "title": "The Dense, Woolen Quiet",
+      "words": 5195
+    },
+    {
+      "ch": 8,
+      "title": "A Digestive Organ of Stone",
+      "words": 5195
+    },
+    {
+      "ch": 9,
+      "title": "A Confession Sealed in Sorrow",
+      "words": 5195
+    },
+    {
+      "ch": 10,
+      "title": "The Natural Order of Acquisition",
+      "words": 5195
+    },
+    {
+      "ch": 11,
+      "title": "The Profound Discourtesy of Aftermath",
+      "words": 5195
+    },
+    {
+      "ch": 12,
+      "title": "The Deliberate Cultivation of Friction",
+      "words": 5195
+    }
+  ]
+}
